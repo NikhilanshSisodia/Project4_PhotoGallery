@@ -1,5 +1,5 @@
-# SignUp Screen 
+# Photo Gallery
 
-This is my first project made using basic Html and Css. It is a basic SignUp Screen with linear gradient background.
+In this project I have used grid layout to make a photo gallery in which on hovering it looks like picture turns from night into day.
 
 
